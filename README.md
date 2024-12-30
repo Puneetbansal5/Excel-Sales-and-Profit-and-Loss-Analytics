@@ -1,4 +1,4 @@
-#  Sales Performance and Profit & Losss Analytics in Excel of AtliQ hardwares.
+#  Sales Performance and Profit & Loss Analytics in Excel of AtliQ hardwares.
 
 ## Sales Report :
 
